@@ -1,8 +1,5 @@
-# firebaseauthproj
+# Flutter-Firebase-Starter
 
-A new Flutter project.
+Simple flutter app with Firebase authentication to get you started.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+This repo is part of the course - 
